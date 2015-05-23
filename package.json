@@ -1,5 +1,5 @@
 {
-  "name": "es6-cli",
+  "name": "es6-cli-echo",
   "version": "1.0.0",
   "description": "ES6検証とか、サンプルとか",
   "scripts": {
@@ -14,9 +14,5 @@
     "gulp-rename": "^1.2.2",
     "gulp-sourcemaps": "^1.5.2",
     "gulp-uglify": "^1.2.0"
-  },
-  "dependencies": {
-    "csv": "^0.4.2",
-    "progress": "^1.1.8"
   }
 }
