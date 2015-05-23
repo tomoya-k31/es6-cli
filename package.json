@@ -1,0 +1,22 @@
+{
+  "name": "es6-cli",
+  "version": "1.0.0",
+  "description": "ES6検証とか、サンプルとか",
+  "scripts": {
+    "build": "gulp build"
+  },
+  "author": "tomoya-k31",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-babel": "^5.1.0",
+    "gulp-concat": "^2.5.2",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-uglify": "^1.2.0"
+  },
+  "dependencies": {
+    "csv": "^0.4.2",
+    "progress": "^1.1.8"
+  }
+}
